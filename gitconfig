@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = akemi.hiruma@gmail.com
+	name = juliana lima
